@@ -4,7 +4,7 @@ package com.example.projectarduino;
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
-
+//hi
 public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
